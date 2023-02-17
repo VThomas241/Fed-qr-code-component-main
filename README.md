@@ -48,14 +48,12 @@ parent element
   object-fit: contain;
 }
 ```
+### Useful resources
+
+- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+- [WebDevSimplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 ## Author
 
 - Website - [Vivek Thomas](https://github.com/VThomas241)
 - Frontend Mentor - [@VThomas241](https://www.frontendmentor.io/profile/yourusername)
-
-
-## Acknowledgments
-
-- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
-- [WebDevSimplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
