@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop View](./screenshots/QR%20code%20-%20Desktop.png)
+<img alt="Mobile view" src="./screenshots/qrcode-mobile.png" height=300px> <img alt="Desktop view" src="./screenshots/qrcode-desktop.png" height=300px>
 
 
 ### Links
 
-- Solution URL: [Click here](https://vithe-qr-code.netlify.app/)
+- Solution URL: [https://vithe-qr-code.netlify.app/](https://vithe-qr-code.netlify.app/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
