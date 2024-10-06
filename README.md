@@ -56,4 +56,4 @@ parent element
 ## Author
 
 - Website - [Vivek Thomas](https://github.com/VThomas241)
-- Frontend Mentor - [@VThomas241](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@VThomas241](https://www.frontendmentor.io/profile/VThomas241)
